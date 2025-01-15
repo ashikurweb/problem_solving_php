@@ -1,0 +1,5 @@
+1. Problem - 1: 
+Create a simple HTML form and accept the user name and display the name through PHP echo statement.
+
+2. Problem -2: 
+Write a PHP script to get the client IP address.
